@@ -1,0 +1,16 @@
+.link {
+  text-decoration: none;
+  /* text-decoration-line: line-through; */
+  color: red;
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+}
+a {
+  text-decoration: none;
+  color: indianred;
+}
+
+a:hover {
+  color: yellow;
+}

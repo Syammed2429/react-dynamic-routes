@@ -1,0 +1,10 @@
+table,
+th {
+  border: 1px solid;
+}
+
+.right {
+  position: absolute;
+  right: 40%;
+  margin-top: -35px;
+}

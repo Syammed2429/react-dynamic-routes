@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Stag Industrial, Inc.",
+            "price": 86
+        },
+        {
+            "id": 2,
+            "name": "Farmers National Banc Corp.",
+            "price": 69
+        },
+        {
+            "id": 3,
+            "name": "Stratasys, Ltd.",
+            "price": 83
+        },
+        {
+            "id": 4,
+            "name": "Blackrock Core Bond Trust",
+            "price": 10
+        },
+        {
+            "id": 5,
+            "name": "Summit State Bank",
+            "price": 27
+        },
+        {
+            "id": 6,
+            "name": "Playa Hotels & Resorts N.V.",
+            "price": 37
+        },
+        {
+            "id": 7,
+            "name": "NF Energy Saving ",
+            "price": 56
+        },
+        {
+            "id": 8,
+            "name": "Expedia, Inc.",
+            "price": 33
+        },
+        {
+            "id": 9,
+            "name": "Tandy Leather Factory, Inc.",
+            "price": 66
+        },
+        {
+            "id": 10,
+            "name": "Anixter International Inc.",
+            "price": 25
+        }
+    ]
+}
